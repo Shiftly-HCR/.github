@@ -1,4 +1,4 @@
-# 🏛️ Hestia — Repenser le travail dans l’Hôtellerie-Restauration
+# 🏛️ Shiftly — Repenser le travail dans l’Hôtellerie-Restauration
 
 Bienvenue sur l’organisation **GitHub officielle de Hestia**.  
 Nous concevons la première **plateforme digitale complète** dédiée à la **mise en relation entre freelances qualifiés et établissements HCR** (hôtels, restaurants, traiteurs…).
@@ -20,9 +20,8 @@ Nous créons un écosystème où :
 
 | Projet                                                                                                      | Description                                                            | Statut              |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- |
-| [**hestia-apps**](<[https://github.com/Hestia-HCR/hestia-apps](https://github.com/Hestia-HCR/hestia-apps)>) | Monorepo principal : Web (Next.js) + Mobile (Expo) + Supabase backend. | 🚧 En développement |
+| [**shiftly-apps**](<[https://github.com/Hestia-HCR/hestia-apps](https://github.com/Shiftly-HCR/shiftly-apps)>) | Monorepo principal : Web (Next.js) + Mobile (Expo) + Supabase backend. | 🚧 En développement |
 | [**landing-page**](<[https://github.com/Hestia/hestia-apps](https://github.com/Hestia-HCR/Landing-page)>)   | Next.js                                                                | 🚧 En développement |
-| [**hestia-design**](https://github.com/Hestia/hestia-design)                                                | Design system et composants UI partagés (Tamagui / Figma).             | 🎨 À venir          |
 
 ---
 
@@ -60,9 +59,9 @@ Nous créons un écosystème où :
 
 ## 📄 Licence
 
-© 2025 – **Hestia SAS** — Tous droits réservés.  
+© 2025 – **Shiftly SAS** — Tous droits réservés.  
 Projet privé, non open source (sauf mention contraire).
 
 ---
 
-🧱 _Hestia – Repenser le travail dans l’Hôtellerie-Restauration._
+🧱 _Shiftly – Repenser le travail dans l’Hôtellerie-Restauration._
